@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Hello, This Advance Git Class of 14/01/2023
 
 # Edited in master branch to learn merge conflict [Master]
+# Incoming Change in dev Branch. solving Merge Conflict.
+========
